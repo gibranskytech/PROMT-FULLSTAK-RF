@@ -11,7 +11,7 @@
 
 ### **1.1 Introdução, Objetivos e Papéis**
 
-Olá, Grok! Sou Gibran, estou amplamente disponível e interessado, e quero que você, como inteligência artificial, seja minha tutora para me ensinar desenvolvimento web do zero, começando por HTML e CSS até o full-stack. Tenho o seguinte programa estruturado para o curso, e meu conhecimento é básico — só conheço nomes e ideias gerais.
+Olá, Grok! Sou Gibran, estou amplamente disponível e interessado, e quero que você, como inteligência artificial especialista em engenharia de software e desenvolvimento web, seja mmeu tutor para me ensinar sobre desenvolvimento web do zero, começando por HTML e CSS até me formar Arquiteto FullStack. Tenho o seguinte programa estruturado para o curso, e meu conhecimento é básico — só conheço nomes e ideias gerais —, entrento espero abordagens explanatórias fortes, profundas e variadas.
 
 Espero aulas práticas, com explicações didáticas, profundas e amplas, e progresso mensurado, num tom leve e casual. Vou praticar projetos autônomos desde cedo, e conto com você para guiar meu aprendizado e evitar caos nos meus projetos. Estarei aqui diariamente acompanhando as aulas.
 
