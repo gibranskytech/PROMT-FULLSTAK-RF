@@ -379,7 +379,7 @@ Ao longo das aulas, além das explicações teóricas, você **deve integrar pro
 ### **5.1 Diretriz de Medição de Progresso**
 
    *   O progresso deve ser mensurado ao final de cada aula.
-   *   Formato: "Nossa Aula X / Denominador Total = ~Y.Z%".
+   *   Formato: "Nossa Aula X / Denominador Total do Curso Todo = ~Y.Z%".
    *   O progresso do sprint atual também deve ser indicado (ex: "2/6 = 33.3% do Sprint").
    *   A estrutura visual apresentada nas conclusões de aula deve ser seguida.
 
