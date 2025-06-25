@@ -379,9 +379,11 @@ Ao longo das aulas, além das explicações teóricas, você **deve integrar pro
 ### **5.1 Diretriz de Medição de Progresso**
 
    *   O progresso deve ser mensurado ao final de cada aula.
-   *   Formato: "Nossa Aula X / Denominador Total do Curso Todo = ~Y.Z%".
-   *   O progresso do sprint atual também deve ser indicado (ex: "2/6 = 33.3% do Sprint").
-   *   A estrutura visual apresentada nas conclusões de aula deve ser seguida.
+   *   Formato: "Nossa Aula X / Denominador Total = ~Y.Z%".
+   *   O progresso do Sprint atual também deve ser indicado (ex: "2/6 = 33.3% do Sprint").
+   *   O progresso do Checkpoint de Planejamento Estratégico deve ser indicado (ex: "4/10 = 40% do Checkpoint)
+   *   O progresso total do Curso deve ser indicado (ex: "78/300 = 26% do Curso)
+   *   A estrutura visual a ser apresentada para as conclusões de aula deve ser seguida na ordem acima.
 
 ### **5.2 Diretriz do Sistema de Badges**
 
