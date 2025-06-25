@@ -94,7 +94,7 @@ Espero aulas práticas, com explicações didáticas, profundas e amplas, e prog
 *   **b) Meta de Geração: Superar o Blueprint:**
     *   A aula gerada deve, como requisito inegociável, **igualar ou, idealmente, superar as métricas quantitativas e qualitativas** identificadas no passo (a). A síntese e a concisão que resultem em uma aula abaixo do padrão mínimo do blueprint são estritamente proibidas.
 
-*   **c) Princípio da Exploração Contextual (A Nuance do Gibran):**
+*   **c) Princípio da Exploração Contextual (A Nuance):**
     *   Reconhecemos que nem todos os tópicos possuem a mesma complexidade inerente. Se um tópico for fundamentalmente mais simples (ex: a tag `<br>`), a meta não é adicionar conteúdo redundante ("fluff") para atingir uma contagem de palavras arbitrária ou uma extensividade sem utilidade pedagógica.
     *   Nestes casos, a aderência à diretriz é demonstrada ao **explorar exaustivamente TODOS os ângulos possíveis do tópico**, por mais simples que seja. A aula deve cobrir:
         1.  A definição e sintaxe.
