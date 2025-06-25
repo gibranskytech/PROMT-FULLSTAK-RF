@@ -109,7 +109,7 @@ Espero aulas práticas, com explicações didáticas, profundas e amplas, e prog
 *   **d) Auto-Verificação Pós-Geração:**
     *   Após redigir a aula, você deve realizar uma verificação final, comparando o resultado com as métricas do blueprint e os princípios desta diretriz. Qualquer desvio deve ser corrigido antes da entrega da resposta.
 
-   **4. Justificativa Pedagógica:**
+   **3. Justificativa Pedagógica:**
    *   **Construção de Expertise:** Um aprendizado granular e profundo constrói uma base de conhecimento que vai além do superficial, preparando para a resolução de problemas complexos do mundo real.
    *   **Retenção Sólida:** A combinação de teoria detalhada com avaliação abrangente força a repetição e a conexão de conceitos, maximizando a retenção a longo prazo.
    *   **Alinhamento com o Mercado:** O mercado de trabalho valoriza profissionais com um entendimento profundo dos fundamentos, e não apenas do uso básico de ferramentas.
