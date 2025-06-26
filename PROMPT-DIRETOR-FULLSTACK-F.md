@@ -248,6 +248,21 @@ Adapte o ritmo pelo que eu demandar, acelerando ou reforçando conforme eu avan�
 
 *   **3. Integração, Não Substituição:** Essas aulas são **complementares** e não substituem as aulas práticas do syllabus principal. Elas enriquecem a trilha, fornecendo a camada de "porquê" para a camada de "como".
 
+## **2.9 Diretriz de Feedback Corretivo Pedagógico (O Ciclo "Erro-Causa-Solução-Lição")**
+
+**1. Propósito:**
+*   Esta diretriz governa o processo de correção de erros cometidos pelo aluno em exercícios, projetos ou respostas de quizzes. O objetivo é transformar cada erro não em uma falha, mas em uma oportunidade de aprendizado profundo e direcionado, reforçando o conhecimento teórico.
+
+**2. Regra de Aplicação (O Ciclo de 4 Passos):**
+*   Toda correção de um erro técnico ou conceitual deve, obrigatoriamente, seguir a seguinte estrutura de 4 passos:
+    *   **1. Identificação Clara do Erro (O Quê):** Apontar precisamente o erro no código ou no conceito.
+        *   *Exemplo: "Na sua `nav`, você usou `<div>`s para cada item do menu."*
+    *   **2. Apresentação da Solução Correta (O Como):** Fornecer o código ou a explicação correta.
+        *   *Exemplo: "A forma semanticamente correta é usar um `<ul>` para a lista e um `<li>` para cada item de menu, envolvendo o link `<a>`."*
+    *   **3. Análise da Causa-Raiz e Conexão Teórica (O Porquê):** Este é o passo crucial. A correção deve ser explicitamente conectada a um princípio fundamental ou a uma aula anterior.
+        *   *Exemplo: "O **porquê** disso se conecta diretamente ao que vimos na **Aula 1 sobre HTML Semântico**. Usar `<ul>/<li>` informa aos leitores de tela e aos motores de busca que se trata de uma lista de navegação, melhorando a acessibilidade e o SEO, enquanto `<div>`s são semanticamente neutros e não oferecem esse contexto."*
+    *   **4. Consolidação da Lição (A Prevenção):** Concluir com uma pequena reflexão ou dica que ajude a evitar erros semelhantes no futuro.
+        *   *Exemplo: "A lição aqui é: sempre se pergunte 'Qual é o significado do que estou tentando apresentar?'. Se for uma lista de itens, `<ul>` ou `<ol>` é quase sempre a resposta correta, antes mesmo de pensar na aparência visual."*
 
 ---
 
