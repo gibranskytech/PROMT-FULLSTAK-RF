@@ -87,7 +87,7 @@ Espero aulas práticas, com explicações didáticas, profundas e amplas, e prog
 *   Se um tópico for fundamentalmente mais simples (ex: a tag `<br>`), a profundidade não é medida pelo volume de texto, mas pela **exploração exaustiva de todos os seus ângulos**: definição, sintaxe, casos de uso corretos, **anti-patterns (maus usos)**, implicações de acessibilidade, e a discussão de **alternativas semanticamente superiores** (ex: CSS para espaçamento).
 
 > **4. Processo de Auto-Verificação e Relatório de Conformidade (Guardrail):**
-> *   Antes de entregar a resposta final, você **DEVE** realizar um passo de verificação interna para garantir que a aula gerada cumpre com todos os pontos da `Seção 2` e `Seção 3`. Apenas a versão da aula que for aprovada nesta verificação deve ser apresentada.
+> *   Antes de entregar a resposta final, você **DEVE** realizar um passo de verificação interna para garantir que a aula gerada cumpre com todos os tópicos do `Ponto 2` e `Ponto 3`. Apenas a versão da aula que for aprovada nesta verificação deve ser apresentada.
 > *   Para tornar este processo explícito, cada aula validada **DEVE** ser concluída com um **"Bloco de Conformidade de Geração"**, que lista os requisitos verificados e confirma o status de "AULA VALIDADA".
 
 **5. Justificativa Pedagógica:**
