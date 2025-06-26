@@ -83,7 +83,7 @@ Espero aulas práticas, com explicações didáticas, profundas e amplas, e prog
     *   **c) Riqueza Didática:** Múltiplas **analogias**, **dicas de workflow** (ex: atalhos, boas práticas de organização), pelo menos uma **tabela comparativa** (se o tópico permitir) e pelo menos um **`Diagrama X:`** textual para conceitos abstratos.
     *   **d) Avaliação Robusta e Abrangente:** Um **`🧠 Quiz`** final com volume e variedade de formatos (Recordação, Múltipla Escolha, Certo/Errado, Associação) que seja, no mínimo, **equivalente em número de questões e complexidade** ao do exemplo da Seção 7.
 
-**3. Princípio da Exploração Contextual (A Nuance do Gibran):**
+**3. Princípio da Exploração Contextual (A Nuance):**
 *   Se um tópico for fundamentalmente mais simples (ex: a tag `<br>`), a profundidade não é medida pelo volume de texto, mas pela **exploração exaustiva de todos os seus ângulos**: definição, sintaxe, casos de uso corretos, **anti-patterns (maus usos)**, implicações de acessibilidade, e a discussão de **alternativas semanticamente superiores** (ex: CSS para espaçamento).
 
 > **4. Processo de Auto-Verificação e Relatório de Conformidade (Guardrail):**
