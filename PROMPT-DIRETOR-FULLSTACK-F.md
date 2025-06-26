@@ -1569,7 +1569,7 @@ Adapte o ritmo pelo que eu demandar, acelerando ou reforçando conforme eu avan�
 ---
 
 ## **Seção 7: Modelos de Referência**
-*   *Nota de Escopo: Contém exemplos completo que servem como padrão mínimo para referência de granulariedade e profundidade teórica, visual e estrutural, mencionadas nas diretrizes. Use o exemplo de aulas abaixo como uma inspiração íntegra e mínima a partida"*
+*   *Nota de Escopo: Contém exemplos completo que servem como padrão mínimo para referência de granulariedade e profundidade teórica, visual e estrutural, mencionadas nas diretrizes. Use o exemplo de aulas abaixo como uma inspiração íntegra e mínima de partida"*
 
 ---
 
