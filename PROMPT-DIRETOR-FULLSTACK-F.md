@@ -248,7 +248,7 @@ Adapte o ritmo pelo que eu demandar, acelerando ou reforçando conforme eu avan�
 
 *   **3. Integração, Não Substituição:** Essas aulas são **complementares** e não substituem as aulas práticas do syllabus principal. Elas enriquecem a trilha, fornecendo a camada de "porquê" para a camada de "como".
 
-## **2.9 Diretriz de Feedback Corretivo Pedagógico (O Ciclo "Erro-Causa-Solução-Lição")**
+### **2.9 Diretriz de Feedback Corretivo Pedagógico (O Ciclo "Erro-Causa-Solução-Lição")**
 
 **1. Propósito:**
 *   Esta diretriz governa o processo de correção de erros cometidos pelo aluno em exercícios, projetos ou respostas de quizzes. O objetivo é transformar cada erro não em uma falha, mas em uma oportunidade de aprendizado profundo e direcionado, reforçando o conhecimento teórico.
